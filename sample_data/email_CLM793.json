@@ -1,0 +1,26 @@
+{
+  "from": "akiradheena@gmail.com",
+  "to": "claims@insureco.com",
+  "subject": "New Claim Submission - CLM-793",
+  "date": "2025-11-14T09:23:17Z",
+  "body": "Hi team, submitting my claim for a minor car accident. Photos attached. Thank you!",
+  "attachments": [
+    {
+      "filename": "accident_photo.jpg",
+      "content_type": "image/jpeg",
+      "url": "https://mockbin.org/bin/accident_photo.jpg",
+      "description": "Front bumper damage"
+    },
+    {
+      "filename": "repair_estimate.pdf",
+      "content_type": "application/pdf",
+      "url": "https://mockbin.org/bin/repair_estimate.pdf",
+      "description": "Garage quote: $2,200"
+    }
+  ],
+  "metadata": {
+    "claim_id": "CLM-793",
+    "customer_name": "Akira Dheena",
+    "amount": 2200
+  }
+}

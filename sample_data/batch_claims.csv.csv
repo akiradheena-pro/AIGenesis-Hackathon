@@ -1,0 +1,6 @@
+"claim_id,customer_name,incident_date,amount,injury_type,has_signature"
+"CLM-789,Akira Dheena,2025-11-10,12500,fracture,FALSE"
+"CLM-790,Alex Chen,2025-11-09,850,sprain,TRUE"
+"CLM-791,Maya Patel,,3000,headache,TRUE"
+"CLM-789,Akira Dheena,2025-11-10,12500,fracture,FALSE"
+"CLM-792,Jordan Lee,2025-11-01,0,—,TRUE"
